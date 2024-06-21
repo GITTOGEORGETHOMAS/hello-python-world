@@ -13,6 +13,7 @@ average1(6,14)
 average1(6)
 average1(num2 = 20)
 average1(num2 = 50, num1 = 60)
+average1(num2 = 50, num1 = 100)
 
 def name(mname='George',fname="Gitto", lname = "Thomas"):
     print("Full Name is :", fname,mname,lname)
